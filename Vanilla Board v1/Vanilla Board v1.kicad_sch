@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "eca3dcc6-ad89-40f2-89af-537da912d12c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 190.5 92.71)
+		(size 46.99 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "9a6b6c44-923c-43e1-a0f2-b51c853cbfb6")
+		(property "Sheetname" "Mezzanine Connectors"
+			(at 190.5 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MezConnectors.kicad_sch"
+			(at 190.5 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Vanilla Board v1"
+				(path "/eca3dcc6-ad89-40f2-89af-537da912d12c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 92.71)
+		(size 44.45 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "da39a848-6463-4fb7-92b6-c01b35b7354a")
+		(property "Sheetname" "Micro"
+			(at 71.12 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Micro.kicad_sch"
+			(at 71.12 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Vanilla Board v1"
+				(path "/eca3dcc6-ad89-40f2-89af-537da912d12c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 92.71)
+		(size 46.99 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "f72f2170-ba0c-4e92-8316-f1147c536ab2")
+		(property "Sheetname" "Utilities"
+			(at 128.27 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Utilities.kicad_sch"
+			(at 128.27 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Vanilla Board v1"
+				(path "/eca3dcc6-ad89-40f2-89af-537da912d12c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
